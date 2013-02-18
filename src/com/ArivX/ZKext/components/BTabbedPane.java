@@ -15,7 +15,7 @@
 //              passed in String into a "TabPair". Each "TabPair" is added to
 //              Tabs and TabPanels which is added to this Tabbox
 //
-// USAGE: ArrayList<String> someTabs = new ArrayList<String>(Arrays.asList(TabA, TabB, TabC));
+// USAGE: ArrayList<String> someTabs = new ArrayList<String>(Arrays.asList("TabA", "TabB", "TabC"));
 //        BTabbedPane someTabPane = new BTabbedPane(someTabs);
 //
 // HISTORY:
